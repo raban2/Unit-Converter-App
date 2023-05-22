@@ -1,5 +1,4 @@
 # Unit-Converter-App
-=====================
 
 Code for Android Basics Codelab.
 
