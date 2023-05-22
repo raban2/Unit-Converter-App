@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CookingUnitConverter</string>
+    <string name="from_prompt">Select Unit to Convert From</string>
+    <string name="to_prompt">Select Unit to Convert To</string>
+
+    <string-array name="unit_options">
+        <item>Milliliters</item>
+        <item>Fluid Ounces</item>
+        <item>Grams</item>
+        <item>Cups</item>
+    </string-array>
+</resources>
